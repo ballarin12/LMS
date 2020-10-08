@@ -1,2 +1,2 @@
 # LMS
-Repositorio de Lenguajes de Marcas
+Repositorio de Lenguajes de Marcas.
